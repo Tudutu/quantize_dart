@@ -117,7 +117,7 @@ class VBox {
   int g2;
   int b1;
   int b2;
-  Map<int, int?> histo = {};
+  List<int?> histo = [];
 
   VBox(
     this.r1,
